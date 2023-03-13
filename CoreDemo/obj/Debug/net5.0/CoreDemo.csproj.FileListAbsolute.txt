@@ -156,3 +156,5 @@ C:\Users\Kando\Desktop\Projeler\CoreDemo\CoreDemo\bin\Debug\net5.0\DataAccessLay
 C:\Users\Kando\Desktop\Projeler\CoreDemo\CoreDemo\bin\Debug\net5.0\EntityLayer.pdb
 C:\Users\Kando\Desktop\Projeler\CoreDemo\CoreDemo\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\Kando\Desktop\Projeler\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Category\Index.cshtml.g.cs
+C:\Users\Kando\Desktop\Projeler\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Shared\UserLayout.cshtml.g.cs
+C:\Users\Kando\Desktop\Projeler\CoreDemo\CoreDemo\obj\Debug\net5.0\Razor\Views\Blog\Index.cshtml.g.cs
