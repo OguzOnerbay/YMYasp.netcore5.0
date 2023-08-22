@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Db957kDjXCrfQ5j32WezcvIe4aHmKdbYftt+wjNyW2WLp3a9OmDGEntXpTb3HKnd5E80QDx6zSQxH+vWRp1sA==",
+  "dgSpecHash": "gr5/nr65SgreADrpUUhpTQFMHnmq9fwJXHIxoMoytfh1WVdKmguplTRvXMuBXx1RhTwZz32sxJ6jKIyuA9MLPg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kando\\Desktop\\Projeler\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Kando\\Documents\\GitHub\\YMYasp.netcore5.0\\DataAccessLayer\\DataAccessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kando\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Kando\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

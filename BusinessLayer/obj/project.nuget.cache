@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xwZRCuGfwb39e5MPB1rLFrfWf8F6xbVjvihvntswXvWt4fAU/DAw9uFPh1/ED55WWuGWHdV+kbYR/KEXaxeFMw==",
+  "dgSpecHash": "N34/mJrXKI7YSo3d/KvOKDlEgM9qXZQAk9VrHXBsNgNRW5Xxjrpic9BUzrNIE79afr+t53T0uPq9V+uoHmLJIg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kando\\Desktop\\Projeler\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj",
+  "projectFilePath": "C:\\Users\\Kando\\Documents\\GitHub\\YMYasp.netcore5.0\\BusinessLayer\\BusinessLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kando\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Kando\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

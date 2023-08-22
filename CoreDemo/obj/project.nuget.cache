@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3esj2qt72Uhyz/8ICUMTcH2SJfVp8DS30Oh7uLM218XWVSjsCMx/2puKm/Rqgf2hSsNouZVzqV/bPZvSEEuNrQ==",
+  "dgSpecHash": "19oTsuVjt4lNhlmm5oLq7K3bgmGbS9ZGgSXfKfOYlrVpzEBnGmTUDfNt6g6YDxGqpJn51ot/3ycDzKqqjrAG2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kando\\Desktop\\Projeler\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
+  "projectFilePath": "C:\\Users\\Kando\\Documents\\GitHub\\YMYasp.netcore5.0\\CoreDemo\\CoreDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Kando\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Kando\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kando\\Desktop\\Projeler\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
+      "projectUniqueName": "C:\\Users\\Kando\\Documents\\GitHub\\YMYasp.netcore5.0\\EntityLayer\\EntityLayer.csproj",
       "projectName": "EntityLayer",
-      "projectPath": "C:\\Users\\Kando\\Desktop\\Projeler\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
+      "projectPath": "C:\\Users\\Kando\\Documents\\GitHub\\YMYasp.netcore5.0\\EntityLayer\\EntityLayer.csproj",
       "packagesPath": "C:\\Users\\Kando\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kando\\Desktop\\Projeler\\CoreDemo\\EntityLayer\\obj\\",
+      "outputPath": "C:\\Users\\Kando\\Documents\\GitHub\\YMYasp.netcore5.0\\EntityLayer\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

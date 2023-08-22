@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XfAdL5J3IXoAjq9uYxd1imbabhN4VlaZRgGRLCkK4q+TAd//D/u7TK3xKcyYgSI/9KEQTZAAJiTh++8Y0N3gTQ==",
+  "dgSpecHash": "QzWjJHUZnf6jZ2BjUeDH4+W8W55gJ7yweZx2HGuGJBdB54Ekk6HoTZZ/tUTZJgEvrK7kg+Efsxw9FPriw2h/Kg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Kando\\Desktop\\Projeler\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\Kando\\Documents\\GitHub\\YMYasp.netcore5.0\\EntityLayer\\EntityLayer.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
